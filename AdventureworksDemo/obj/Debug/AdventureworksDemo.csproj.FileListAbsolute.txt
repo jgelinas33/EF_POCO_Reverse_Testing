@@ -1,0 +1,10 @@
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\bin\Debug\AdventureworksDemo.exe.config
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\obj\Debug\AdventureworksDemo.csprojResolveAssemblyReference.cache
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\bin\Debug\AdventureworksDemo.exe
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\bin\Debug\AdventureworksDemo.pdb
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\bin\Debug\EntityFramework.dll
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\bin\Debug\EntityFramework.xml
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\obj\Debug\AdventureworksDemo.exe
+E:\GitProjects\AdventureworksDemo\AdventureworksDemo\obj\Debug\AdventureworksDemo.pdb
